@@ -6,4 +6,4 @@ Controls:
 Left and Right Arrows for left and right movement
 Space key for "firing" vaccine droplets
 
-Built with Pygame.
+Built with Pygame 1.9.6.
