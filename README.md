@@ -6,7 +6,7 @@ Controls:
 Left and Right Arrows for left and right movement
 Space key for "firing" vaccine droplets
 
-![Screenshot](covidInvaders.screenshot.jpg)
+![Screenshot](covidInvaders.screenshot.JPG)
 
 
 Built with Pygame 1.9.6.
